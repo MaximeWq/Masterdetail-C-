@@ -1,6 +1,6 @@
 # Masterdetail-C-sharp
 
-Projet de 1ère année de DUT informatique réalisé en C et en XAML.
+Projet de 1ère année de DUT informatique réalisé en C# et en XAML.
 
 Description:
 
