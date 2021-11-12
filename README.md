@@ -16,7 +16,7 @@ correspondante fonctionne.
 
 Lancer l'application:
 
-Le fichier "projet_mc_Setup.msi" permet d'installer l'application".
+Le fichier "projet_mc_Setup.msi" permet d'installer l'application.
 Pour que les éléments utilisant de la persistance (ajout / suppression de favoris et création de comptes) fonctionnent, il faut démarrer 
 l'application en tant qu'administrateur.
 
